@@ -1,4 +1,5 @@
 # puppet-cabot
+# There's nothing here yet, just a template. Come back later.
 
 #### Table of Contents
 
