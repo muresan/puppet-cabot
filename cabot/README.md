@@ -1,4 +1,4 @@
-# puppet-cabot
+# cabot
 
 #### Table of Contents
 
@@ -77,4 +77,3 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You may also add any additional sections you feel are
 necessary or important to include here. Please use the `## ` header.
-

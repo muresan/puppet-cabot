@@ -1,0 +1,14 @@
+{
+  "name": "muresan-cabot",
+  "version": "0.1.0",
+  "author": "muresan",
+  "summary": "A Puppet Module to setup Cabot",
+  "license": "GPL-2.0",
+  "source": "https://github.com/muresan/puppet-cabot",
+  "project_page": "https://github.com/muresan/puppet-cabot",
+  "issues_url": "https://github.com/muresan/puppet-cabot/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
